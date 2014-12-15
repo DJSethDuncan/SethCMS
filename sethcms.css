@@ -1,0 +1,15 @@
+.editbutton, .closeedit { float:right; cursor:pointer; }
+.editbackground { width:100%; height:100%; position:absolute; background-color:#000; opacity:.4; }
+.editbox { 
+	display:none;
+	position:absolute;
+	width:400px;
+	left:50%;
+	margin-left:-220px;
+	top:10%;
+	min-height:200px;
+	background-color:#FFF;
+	border:1px solid;
+	padding:10px 20px;
+}
+.editer { width:90%; margin:0 auto; }
